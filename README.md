@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Inventory and Data Management System
+# WEB-DEVELOPMENT-ASSIGNMENT-3: Inventory and Data Management System
 
 A REST API built with Node.js, Express.js, MongoDB and Mongoose to manage a product catalogue.
 
@@ -10,7 +9,7 @@ A REST API built with Node.js, Express.js, MongoDB and Mongoose to manage a prod
    PORT=5000
    MONGO_URI=mongodb://127.0.0.1:27017/inventory_db
    ```
-3. `node server.js`
+3. `npm start` (or `npm run dev` with nodemon)
 
 ## API Endpoints
 | Method | URL | Purpose |
@@ -46,6 +45,3 @@ A REST API built with Node.js, Express.js, MongoDB and Mongoose to manage a prod
 
 ### Category Summary (GET)
 ![Summary](screenshots/summary.png)
-=======
-# WEB-DEVELOPMENT-ASSIGNMENT-3
->>>>>>> d5155380773e81941d3ac3390a38c2d8992f9f94
